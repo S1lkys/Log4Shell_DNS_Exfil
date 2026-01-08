@@ -319,7 +319,7 @@ def print_banner(target, oast_domain, delay):
     print("""
 ╔════════════════════════════════════════════════════════════════════╗
 ║                                                                    ║
-║      Log4Shell DNS Exfiltration - Secrets Hunter v3.1             ║
+║      Log4Shell DNS Exfiltration                                    ║
 ║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
     """)
